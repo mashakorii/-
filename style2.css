@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Корчагина Мария</h1>
+      <ul>
+        <li>люблю заниматься спортом</li>
+        <li>рисую и читаю книги</li>
+        <li>делаю сайты</li>
+      </ul>
+      <div class="фото">
+      <img class="спорт"src="https://img.freepik.com/free-photo/dumbells-still-life-studio_23-2151747188.jpg?t=st=1736576641~exp=1736580241~hmac=b4dde56f2631ba27bde9a40c6d5c7721812829c32b9d4ca6526fde7e9ce19fb2&w=1380" width="700px" height="400px"/>
+      <img class="рисовать"src="https://img.freepik.com/free-photo/notebook-mockup_53876-30400.jpg?ga=GA1.1.2038417711.1736340382&semt=ais_hybrid" width="700px" height="400px"/>
+      </div>
+    </main>
+    <footer>
+      <a class="social" href="https://vk.com/m.korler"><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+    </footer>
+  </body>
+</html>
