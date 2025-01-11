@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 10px solid rgb(48, 44, 44);
+    background-color: rgb(48, 44, 44);
+}
+ul {
+    font-size: 20px;
+}
+.link-header {
+    color: white;
+    font-size: 30px;
+}
+h1 {
+    text-align: center;
+}
+.фото {
+    border: 10px solid rgb(116, 114, 114);
+    background-color: rgb(116, 114, 114);
+    border-radius: 30px;
+}
+.рисовать {
+    margin-top: 40px;
+    margin-left: 350px;
+}
+.спорт {
+    margin-top: 20px;
+    margin-left: 350px
+}
